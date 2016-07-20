@@ -161,7 +161,7 @@ You may find it [here](https://pypi.python.org/pypi/sortedcontainers) or install
 it via pip.
 
 Moreover, **Choronzon** needs IDA Pro (actually, its terminal version). The
-path of IDA Pro should be specified on your configuration file like this:
+path of IDA Pro should be specified in your configuration file like this:
 
 ```
 DisassemblerPath = 'C:\\Program Files (x86)\\IDA 6.6'
